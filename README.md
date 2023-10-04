@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awdhesh8
-- 👀 I’m interested in AI/ML, AWS cloud, Game Development.
-- 🌱 I’m currently learning JavaScript & AI/ML Cource from Cousera
+- 👀 I’m interested in App dev, AI/ML, AWS cloud, and Game Development.
+- 🌱 I’m currently learning a Flutter Development Course from Udemy.
 - 💞️ I’m looking to collaborate on ________
 - 📫 How to reach me awdheshdubey64@gmail.com
 
